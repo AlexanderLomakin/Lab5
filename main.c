@@ -9,6 +9,6 @@ int main(int argc, char **argv)
 
     askname(first, last);
 
-    printf("Goodbye, %s %s!\n", first, last);
+    printf("Goodbye, dear %s %s!\n", first, last);
     return 0;
 }
